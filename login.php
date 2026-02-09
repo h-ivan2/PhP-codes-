@@ -111,10 +111,10 @@ fwrite($file, "Name: $name\nEmail:$email\nPhone:$phone\nMessage:$text\n\n");
 fclose($file);
 
 
-echo "Your message has been sent successfully!";
+echo "Your message has been sent successfully Thank u for ur work !";
 
 }else { 
-    echo "Please fill out all fields";
+    echo "Please fill out all fields i.e all fields are required ";
 
 }
 }
