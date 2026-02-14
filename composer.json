@@ -1,0 +1,17 @@
+{
+    "name": "phynx-2/file-creation",
+    "autoload": {
+        "psr-4": {
+            "Phynx2\\FileCreation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hirwaivan",
+            "email": "hirwaivan884@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.4"
+    }
+}
