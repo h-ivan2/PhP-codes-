@@ -9,6 +9,8 @@ echo  "<h1> HURRAY  " . $name . "</h1>";
 echo "You have successfully logged in";
 
 }
+
+
 ?>
 
 
