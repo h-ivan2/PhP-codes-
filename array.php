@@ -60,3 +60,4 @@ $average=computeAverage($marks);
 
 echo 'The average of the numbers is: ' .$average;
 ?>
+
