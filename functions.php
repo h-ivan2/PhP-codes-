@@ -67,3 +67,5 @@ $file="content.txt";
 $contents=file_get_contents($file);
 echo $contents;
 ?>
+
+
